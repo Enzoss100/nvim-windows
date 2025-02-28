@@ -35,3 +35,5 @@ set winbar=%F\ %y\ [%{&fileformat}]
 
 " Add Neovim Colorscheme
 colorscheme lunaperche
+
+
