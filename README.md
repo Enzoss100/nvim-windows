@@ -4,3 +4,4 @@ This repository is meant to host my personal Neovim config that is compatible wi
 
 ## Config Contents
 - Fresh install of NVChad
+- Theme: Dark Horizon 
