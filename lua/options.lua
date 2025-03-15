@@ -5,7 +5,4 @@ vim.opt.shiftwidth = 4
 vim.opt.expandtab = false
 vim.opt.number = true
 vim.opt.relativenumber = true
--- add yours here!
-
--- local o = vim.o
--- o.cursorlineopt ='both' -- to enable cursorline!
+vim.o.shell = "powershell.exe"
