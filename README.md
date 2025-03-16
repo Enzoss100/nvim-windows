@@ -16,4 +16,4 @@ For this to work well with Windows you will need to install the following packag
 - Startup Screen: Enabled
 - Relative Line Number: true
 - Absolute Line Number: true
-- Leader Key: '<space>'
+- Leader Key: `<space>`
