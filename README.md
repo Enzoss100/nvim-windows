@@ -10,7 +10,7 @@ For this to work well with Windows you will need to install the following packag
 
 ## Config Contents
 - Framework: NVChad
-- Theme: Dark Horizon 
+- Theme: Chadracula 
 - Tab Width: 4 
 - Tab Shift: 4 
 - Startup Screen: Enabled
